@@ -1,0 +1,16 @@
+
+1. Simulation
+- Gazebo, jMAVSim, AirSim, ... 등의 다양한 시뮬레이터가 있는데 각 시뮬레이터의 장,단점과 주로 사용되는 시뮬레이터는 무엇인가요?
+
+2. Simulation
+- jMAVSim 등의 시뮬레이터에서 멀티콥터 모델 설정이 가능한가요? 
+  ex) 쿼드기체 외의 헥사, 옥토 등의 형태와 멀티콥터의 무게, 관성모멘트 등 고려가 가능한지..
+
+3. Simulation
+- jMAVSIm에서 다양한 fail conditions 상황에 대한 시뮬레이션 진행이 가능하다고 되어 있는데
+  특정 fail condition을 구성해서 만들어 줄 수 있나요? 
+  ex) 멀티콥터의 특정 모터 구동을 중지시키는 fail condition을 만들어 줄 수 있는지.. 
+
+
+
+
