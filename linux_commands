@@ -1,0 +1,79 @@
+ubuntu 명령어
+
+Terminal hot-key
+
+Ctrl + Alt + T : 새 터미널 실행
+
+Ctrl + Shift + Q : 선택된 터미널 닫기
+
+Ctrl + Shift + F : 터미널 내 글자 검색
+
+Ctrl + Ins : 선택 영역 복사
+
+Shift + Ins : 커서 위치에 붙여 넣기
+
+ 
+
+패키지 관리
+
+apt-cache : 설치 되었거나 설치 가능한 package에 대한 조회
+
+- showsrc : 소스 기록 확인
+
+- search : 정규식 패턴에 맞는 패키지 목록 검색
+
+- show : 패키지에 대해 읽을 수 있는 기록 확인
+
+- pkgnames : 시스템에 들어 있는 모든 패키지 이름 확인
+
+apt-get : package 설치/업데이트/삭제
+
+- update : 패키지 목록을 새로 가져옴
+
+- upgrade : 패키지 업그레이드
+
+- install : 새 패키지 설치
+
+- remove : 패키지 삭제
+
+- purge : 패키지 완전 삭제
+
+- autoremove : 사용하지 않는 패키지 자동 삭제
+
+- clean : 내려받은 아카이브 파일 삭제
+
+- autoclean : 과거에 내려받은 아카이브 파일 삭제
+
+- source : 소스 아카이브 다운로드
+
+ 
+
+- 일반 명령어
+
+ls (List) : 현재 경로 파일 목록 확인
+
+- l : 권한 등의 세부사항 확인
+
+chmod : 실행권한 추가
+
+- +x 파일이름 : 실행권한 추가
+
+- -x 파일이름 : 실행권한 삭제
+
+pwd (Print Working Directory) : 현재 경로 확인
+
+cd (Change Directories) : 경로 변경
+
+- / : root 경로 이동
+
+- ~ : home 경로 이동
+
+- .. : 상위 경로 이동
+
+ 
+
+cat : 파일 속성 확인
+
+man : 명령어 도움말
+
+cls : 콘솔 화면 지우기
